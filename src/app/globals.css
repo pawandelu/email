@@ -12,3 +12,10 @@
   --color-muted-blue: #41546B;
 
 }
+
+.footer-bg {
+  background-image: url("/assets/image/webp/footer-img.webp");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
